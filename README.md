@@ -26,7 +26,3 @@ I'm actively learning system design (scale, reliability, trade-offs), the kind o
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prathamgoyal787&theme=tokyonight" width="49%" alt="GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prathamgoyal787&theme=tokyonight" width="49%" alt="Most used languages" />
 </p>
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Contribution graph" />
-</p>
